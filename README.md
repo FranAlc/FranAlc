@@ -3,6 +3,6 @@ Me encargo del Desarrollo web y creo codigo con C# Console.
 
 💻Conocimientos:⭐
 HTML - CSS o Bootstrap.
-JavaScript y Node.JS.
+C & C++.
 MySQL.
 C#.
